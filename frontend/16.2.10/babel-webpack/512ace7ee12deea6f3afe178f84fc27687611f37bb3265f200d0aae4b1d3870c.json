@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const environment = {\n  production: false,\n  backendProduct: '/assets/mock/products.json',\n  backendLoginClient: 'https://backend-rb14.onrender.com/api/utilisateur/login'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
